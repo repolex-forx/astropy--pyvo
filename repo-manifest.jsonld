@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/astropy/pyvo/commit/545eac3ce72c5b13d706245a137ab5b345e9aaf3",
       "git:hexsha": "545eac3ce72c5b13d706245a137ab5b345e9aaf3",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/astropy/pyvo/commit/463fbdb9c18417f9084d6a678622ffed45e9297e",
