@@ -1,0 +1,11 @@
+{
+  "org": "astropy",
+  "repo": "pyvo",
+  "versions": [
+    {
+      "commit": "545eac3ce72c5b13d706245a137ab5b345e9aaf3",
+      "tag": "",
+      "parsed_at": "2026-10-15T20:45:53.415677+00:00"
+    }
+  ]
+}
